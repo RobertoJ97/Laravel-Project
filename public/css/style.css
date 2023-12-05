@@ -1,0 +1,85 @@
+/**
+* Template Name: Polaroyd
+* Template URL: https://templatemag.com/polaroyd-bootstrap-agency-template/
+* Author: TemplateMag.com
+* License: https://templatemag.com/license/
+*/
+
+/*	################################################################
+	1. GENERAL STRUCTURES
+################################################################# */
+
+
+
+.presentation {
+	margin-top:5px;
+	margin-bottom: 5px;
+}
+.presentation h1 {
+	font-size: 35px;
+	color: #A79A74;
+}
+
+.presentation h2 {
+	color: #2f2f2f;
+	font-weight: 400;
+	font-size: 42px;
+}
+
+.presentation h3 {
+	color: #A79A74;
+	font-weight: 500;
+}
+
+.presentation h4 {
+	color: #A79A74;
+	font-weight: 300;
+}
+
+.presentation .sp {
+	margin-top: 30px;
+}
+
+
+/* PL & GR are exclusive values for coloring text in this block. */
+.presentation pl {
+	color: #A79A74;
+}
+
+.presentation gr {
+	color: #ccc;
+}
+
+
+.presentation .camera {
+	width: 40px;
+	height: 35px;
+}
+
+.presentation hr {
+	border-top: 1px solid #D6D6D6;
+	margin: auto;
+	width: 50%;
+	margin-bottom: 60px;
+}
+
+/*	################################################################
+	4. SERVICES SECTION STRUCTURE
+################################################################# */
+
+.services-bordered {
+	padding: 10px 10px;
+	border: 3px double;
+	border-color: #e8e8e8;
+}
+
+.services-bordered h4 {
+	color: #A79A74;
+	font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.large-icon {
+	font-size: 52px;
+}
+
